@@ -18,6 +18,7 @@ pytorch-fid==0.3.0
 pytorch-lightning==2.5.6  
 scikit-learn==1.7.2  
 ## Code usage 
+The code will be made publicly available upon acceptance of the paper.         
 To train the model, first run preprocess_image.py for dataset splitting, then execute autoencoder_main.py to train the ACC-AE and save its parameters. Finally, run CCLDT_main.py to complete the DiT training and sampling process.
 ## Reference
 The following repositories were used as inspiration for this implementation:  
@@ -26,4 +27,4 @@ LDM: https://github.com/CompVis/latent-diffusion
 CCDM: https://github.com/UBCDingXin/CCDM/blob/main/CCDM_archived/CCDM_unified/diffusion.py  
 ## Citation
 Please cite our paper as follows:   
-Ma Y, Zhao W, Li M, Ru Y, Xu H. Microstructure Generation of Ni-based Single-crystal Superalloys Across Continuous Composition Spaces via a Latent Diffusion Transformer. 2026, submitted.
+Ma Y, Zhao W, Li M, Du S, Ru Y, Li S, Gong S, Xu H. Microstructure Generation of Ni-based Single-crystal Superalloys Across Continuous Composition Spaces via a Latent Diffusion Transformer. 2026, submitted.
