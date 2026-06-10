@@ -27,4 +27,4 @@ LDM: https://github.com/CompVis/latent-diffusion
 CCDM: https://github.com/UBCDingXin/CCDM/blob/main/CCDM_archived/CCDM_unified/diffusion.py  
 ## Citation
 Please cite our paper as follows:   
-Ma Y, Zhao W, Li M, Du S, Ru Y, Li S, Gong S, Xu H. Microstructure Generation of Ni-based Single-crystal Superalloys Across Continuous Composition Spaces via a Latent Diffusion Transformer. 2026, submitted.
+Ma Y, Zhao W, Li M, Du S, Ru Y, Li S, Gong S, Xu H. Microstructure generation of Ni-based single-crystal superalloys across continuous composition spaces via a latent diffusion transformer. Journal of Materials Research and Technology 2026;42:12590–608. https://doi.org/10.1016/j.jmrt.2026.06.042
