@@ -17,8 +17,7 @@ pillow==11.3.0
 pytorch-fid==0.3.0  
 pytorch-lightning==2.5.6  
 scikit-learn==1.7.2  
-## Code usage 
-The code will be made publicly available upon acceptance of the paper.         
+## Code usage          
 To train the model, first run preprocess_image.py for dataset splitting, then execute autoencoder_main.py to train the ACC-AE and save its parameters. Finally, run CCLDT_main.py to complete the DiT training and sampling process.
 ## Reference
 The following repositories were used as inspiration for this implementation:  
